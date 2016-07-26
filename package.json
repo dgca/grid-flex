@@ -1,0 +1,21 @@
+{
+  "name": "grid-flex",
+  "version": "0.0.1",
+  "description": "A bare-bones SCSS grid using flexible boxes.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgca/grid-flex.git"
+  },
+  "keywords": [
+    "grid",
+    "scss",
+    "flexbox"
+  ],
+  "author": "Dan Cortes <hi@dancort.es> (http://dancort.es/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dgca/grid-flex/issues"
+  },
+  "homepage": "https://github.com/dgca/grid-flex#readme"
+}
